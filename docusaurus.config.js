@@ -15,7 +15,7 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/logo.png',
   organizationName: 'ChainSafer', // Usually your GitHub org/user name.
   projectName: 'documentation-starter', // Usually your repo name.
